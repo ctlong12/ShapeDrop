@@ -4,4 +4,4 @@ Using UIDynamicAnimator, UIGravityBehavior, and UICollisionBehavior to simulate 
 
 Simple Demonstration of the application.
 
-<a href="https://imgflip.com/gif/1yrfzk"><img src="https://i.imgflip.com/1yrfzk.gif" title="made at imgflip.com"/></a>
+![shapedropgif](https://user-images.githubusercontent.com/27150848/37168424-dc380160-22d2-11e8-8971-36cdc49ed507.gif)
