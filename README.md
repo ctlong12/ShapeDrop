@@ -1,5 +1,5 @@
 # Shape Drop
-Shape drops is a simple iOS applciation that simulates shapes falling and colliding with each other upon a users interaction. The applciation makes use of many standard Swift libraries to simulate these falling objects.
+Shape drop is a simple iOS applciation that simulates shapes falling and colliding with each other upon a users interaction. The applciation makes use of many standard Swift libraries to simulate these falling objects.
 
 ## iOS Swift Libraries
 * UIDynamicAnimator
