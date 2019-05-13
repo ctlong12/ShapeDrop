@@ -8,7 +8,7 @@ Shape drop is a simple iOS applciation that simulates shapes falling and collidi
 
 ### The Implementation
 
-Each object spawns from the interaction of a UITapGestureRecognizer. Each shape is initiated with a UIDynamicAnimator which then have a UIGravityBehavior & UICollisionBehavior added to them. Each one of these animated objects are added to the reference view which is then bounded by the frame of the screen.
+Each object spawns from the interaction of a UITapGestureRecognizer. Each shape is initiated with a UIDynamicAnimator which then have a UIGravityBehavior & UICollisionBehavior added to them. Each one of these animated objects are added to the reference view which are then bounded by the frame.
 <br/>
 <br/>
 
